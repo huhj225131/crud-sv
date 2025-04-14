@@ -1,4 +1,4 @@
-const apiUrl = 'https://be-crud-student-1-aw1t.onrender.com/'; // backend api
+const apiUrl = 'https://be-crud-student-g6wj.onrender.com'; // backend api
 let students = []
 let currentPage = 1
 const pageSize = 3
